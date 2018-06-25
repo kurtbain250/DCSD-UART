@@ -1,0 +1,132 @@
+Device selected: A5023QQX (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+c8d5b655d2ecb93d:680
+power supply type usb host
+7895780174d60626:176
+7895780174d60626:545
+image <ptr>: bdev <ptr> type ibot offset 0x0 len 0x994bc
+image <ptr>: bdev <ptr> type bat1 offset 0x994bc len 0x1b06
+image <ptr>: bdev <ptr> type dtre offset 0x9afc2 len 0x1a5d5
+image <ptr>: bdev <ptr> type glyP offset 0xb5597 len 0x2278
+image <ptr>: bdev <ptr> type chg0 offset 0xb780f len 0x3905
+image <ptr>: bdev <ptr> type bat0 offset 0xbb114 len 0xbd6c
+image <ptr>: bdev <ptr> type batF offset 0xc6e80 len 0x15b6e
+image <ptr>: bdev <ptr> type chg1 offset 0xdc9ee len 0x9bc7
+image <ptr>: bdev <ptr> type logo offset 0xe65b5 len 0x2d9c
+image <ptr>: bdev <ptr> type recm offset 0xe9351 len 0x3715a
+b37607756c6dd5bc:267
+battery voltage 4260 mV
+power supply type usb host
+7aa4175208fb8b7f:199
+7aa4175208fb8b7f:199
+7aa4175208fb8b7f:138
+7aa4175208fb8b7f:138
+8fe61c2480442c28:124
+8fe61c2480442c28:124
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+11fc947d0f4f679f:296
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b4ef2af37218539c:327
+b4ef2af37218539c:570
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+c69dbd2499aec822:185
+image <ptr>: bdev <ptr> type ibot offset 0x0 len 0x994bc
+image <ptr>: bdev <ptr> type bat1 offset 0x994bc len 0x1b06
+image <ptr>: bdev <ptr> type dtre offset 0x9afc2 len 0x1a5d5
+image <ptr>: bdev <ptr> type glyP offset 0xb5597 len 0x2278
+image <ptr>: bdev <ptr> type chg0 offset 0xb780f len 0x3905
+image <ptr>: bdev <ptr> type bat0 offset 0xbb114 len 0xbd6c
+image <ptr>: bdev <ptr> type batF offset 0xc6e80 len 0x15b6e
+image <ptr>: bdev <ptr> type chg1 offset 0xdc9ee len 0x9bc7
+image <ptr>: bdev <ptr> type logo offset 0xe65b5 len 0x2d9c
+image <ptr>: bdev <ptr> type recm offset 0xe9351 len 0x3715a
+power supply type usb host
+
+Starting power-off simulation: waiting for power button or unplug (screen off)
