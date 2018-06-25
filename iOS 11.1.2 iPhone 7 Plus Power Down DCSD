@@ -1,0 +1,86 @@
+Device selected: A5023QQX (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+dd1e756fe9829bdf:1150
+power supply type usb host
+decf841a08a98ea0:173
+decf841a08a98ea0:181
+c6942b78ad85bf6c:607
+c6942b78ad85bf6c:609
+c6942b78ad85bf6c:661
+constructing idle task
+74c847e8096e252f:2196
+74c847e8096e252f:1627
+74c847e8096e252f:1631
+74c847e8096e252f:1634
+74c847e8096e252f:1639
+74c847e8096e252f:1644
+74c847e8096e252f:1649
+74c847e8096e252f:1655
+74c847e8096e252f:1663
+74c847e8096e252f:1723
+74c847e8096e252f:1724
+74c847e8096e252f:1725
+74c847e8096e252f:1727
+74c847e8096e252f:1728
+74c847e8096e252f:1730
+74c847e8096e252f:1731
+74c847e8096e252f:1736
+74c847e8096e252f:1744
+74c847e8096e252f:1747
+74c847e8096e252f:1766
+74c847e8096e252f:1767
+74c847e8096e252f:1783
+74c847e8096e252f:1783
+74c847e8096e252f:1783
+74c847e8096e252f:1783
+74c847e8096e252f:1783
+74c847e8096e252f:1783
+74c847e8096e252f:2024
+74c847e8096e252f:2035
+19ce22e684c5d6b8:277
+19ce22e684c5d6b8:277
+19ce22e684c5d6b8:277
+19ce22e684c5d6b8:277
+87a6ad3273c7591c:238
+87a6ad3273c7591c:239
+c69dbd2499aec822:185
+image <ptr>: bdev <ptr> type illb offset 0x0 len 0x6735a
+image <ptr>: bdev <ptr> type bat1 offset 0x6735a len 0x2a0c
+image <ptr>: bdev <ptr> type liqd offset 0x69d66 len 0xf76c2
+image <ptr>: bdev <ptr> type dtre offset 0x161428 len 0x257a2
+image <ptr>: bdev <ptr> type glyP offset 0x186bca len 0x4aa6
+image <ptr>: bdev <ptr> type chg0 offset 0x18b670 len 0x66e1
+image <ptr>: bdev <ptr> type bat0 offset 0x191d51 len 0x1951f
+image <ptr>: bdev <ptr> type batF offset 0x1ab270 len 0x2e1b3
+image <ptr>: bdev <ptr> type chg1 offset 0x1d9423 len 0x17512
+image <ptr>: bdev <ptr> type logo offset 0x1f0935 len 0x4c77
+image <ptr>: bdev <ptr> type recm offset 0x1f55ac len 0x74457
+31502f8709baf270:1669
+31502f8709baf270:1673
+power supply type usb host
+
+Starting power-off simulation: waiting for power button or unplug (screen off)
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
