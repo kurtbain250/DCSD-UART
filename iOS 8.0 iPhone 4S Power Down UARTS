@@ -1,0 +1,15 @@
+image 0x9ff61c80: bdev 0x9ff62de0 type SCAB offset 0x2000
+image 0x9ff61d00: bdev 0x9ff62de0 type ibot offset 0x4000 len 0x45178
+image 0x9ff61d80: bdev 0x9ff62de0 type dtre offset 0x4a000 len 0x142b8
+image 0x9ff61e00: bdev 0x9ff62de0 type logo offset 0x60000 len 0x1a78
+image 0x9ff61e80: bdev 0x9ff62de0 type chg0 offset 0x62000 len 0x25f8
+image 0x9ff61f00: bdev 0x9ff62de0 type chg1 offset 0x66000 len 0x88b8
+image 0x9ff61f80: bdev 0x9ff62de0 type batF offset 0x70000 len 0x14838
+image 0x9ff62000: bdev 0x9ff62de0 type bat0 offset 0x86000 len 0xaa38
+image 0x9ff62080: bdev 0x9ff62de0 type bat1 offset 0x92000 len 0x7f8
+image 0x9ff62100: bdev 0x9ff62de0 type glyP offset 0x94000 len 0x2e38
+image 0x9ff62180: bdev 0x9ff62de0 type recm offset 0x98000 len 0x12eb8
+power supply type usb host
+
+Starting power-off simulation: waiting for power button or unplug (screen off)
+
