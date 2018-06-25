@@ -1,0 +1,76 @@
+Device selected: A100JXAB (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+SysCfg: version 0x00020001 with 9 entries using 204 of 8192 bytes
+BDEV: protecting 0x2000-0x8000
+image 0x1802fe80: bdev 0x1802fb80 type ibot offset 0x20000 len 0x29090
+image 0x1802ff00: bdev 0x1802fb80 type dtre offset 0x49d80 len 0xa7c4
+image 0x1802ff80: bdev 0x1802fb80 type logo offset 0x55200 len 0x1cf4
+image 0x18030000: bdev 0x1802fb80 type recm offset 0x57bc0 len 0x9f64
+image 0x18030080: bdev 0x1802fb80 type bat0 offset 0x62800 len 0xd338
+image 0x18030100: bdev 0x1802fb80 type bat1 offset 0x70800 len 0xf438
+image 0x18030180: bdev 0x1802fb80 type glyC offset 0x80900 len 0x46f8
+image 0x18030200: bdev 0x1802fb80 type glyP offset 0x85cc0 len 0x4338
+image 0x18030280: bdev 0x1802fb80 type chg0 offset 0x8acc0 len 0x44b8
+image 0x18030300: bdev 0x1802fb80 type chg1 offset 0x8fe40 len 0x58f8
+image 0x18030380: bdev 0x1802fb80 type batF offset 0x96400 len 0x121b8
+power supply type usb host
+otf clock divisor 5
+fps set to: 59.977
+SFN: 0x600, Addr: 0xfd00000, Size: 0x14001e0, hspan: 0x500, QLEN: 0x140
+merlot_init() -- Universal code version 11-29-07
+Merlot Panel ID (0xa1e52a):
+   Build:          MP1 
+   Type:           SAMSUNG 
+   Project/Driver: N82/NSC-Muscat AutoBoot Enabled 
+Autoboot display...
+turn on the parity error flag
+paint_install_gamma_table: Found Gamma table 0x0000e522 / 0x0000ff77
+image validation failed but untrusted images are permitted
+image validation failed but untrusted images are permitted
+image validation failed but untrusted images are permitted
+
+
+=======================================
+::
+:: iBoot for n82ap, Copyright 2010, Apple Inc.
+::
+::	BUILD_TAG: iBoot-931.71.16
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8900 CPRV:30 CPFM:03 SCEP:05 BDID:04 ECID:00000016C20AF5F4 IBFL:01 SRNM:[84918MMPY7H]
+::
+=======================================
+
+[NAND] Device ID           0xb614d5ad
+[NAND] BANKS_TOTAL         4
+[NAND] BLOCKS_PER_BANK     4096
+[NAND] PAGES_PER_BANK      524288
+[NAND] SECTORS_PER_PAGE    8
+[NAND] BYTES_PER_SPARE     128
+[FTL:MSG] Apple NAND Driver (AND) RO
+[FTL:MSG] FIL_Init            [OK]
+[FTL:MSG] BUF_Init            [OK]
+[FTL:MSG] FPart Init          [OK]
+read old style signature 0x43303035 (line:403)
+[FTL:MSG] VFL Register    [OK]
+[FTL:MSG] VFL Init            [OK]
+[FTL:MSG] VFL_Open            [OK]
+[FTL:MSG] FTL Register    [OK]
+[FTL:MSG] FTL_Open            [OK]
+Boot Failure Count: 0	Panic Fail Count: 0
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+HFSInitPartition: 0x18031c00
+image validation failed but untrusted images are permitted
+Loading kernel cache at 0x0b000000
+Uncompressed kernel cache at 0x0b000000
+image validation failed but untrusted images are permitted
+gBootArgs.commandLine = [-v ]
+Installing WIFI Calibration
+
