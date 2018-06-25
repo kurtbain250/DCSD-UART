@@ -1,0 +1,73 @@
+Device selected: A5023QQX (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+
+power button press detected: button wait cancelled
+dbac320341c4a180:75
+24275cc37f5e959f:112
+8f2d0467d09e4059:43
+24275cc37f5e959f:102
+24275cc37f5e959f:103
+24275cc37f5e959f:104
+687bdf8288735dfd:855
+
+
+=======================================
+::
+:: iBootStage2 for n51, Copyright 2007-2016, Apple Inc.
+::
+::	Local boot, Board 0x0 (n51ap)/Rev 0x8
+::
+::	BUILD_TAG: iBoot-3406.30.8
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8960 CPRV:11 CPFM:03 SCEP:01 BDID:00 ECID: IBFL:1D SRNM:[]
+::
+=======================================
+
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b4ef2af37218539c:327
+74ab585bd7cc1b8d:795
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+14fdbf61484fe311:322
+14fdbf61484fe311:356
+31502f8709baf270:772
+14fdbf61484fe311:811
+b37607756c6dd5bc:393
+699ad4413ecedf7c:222
+699ad4413ecedf7c:222
+8fe61c2480442c28:233
+8fe61c2480442c28:233
+11fc947d0f4f679f:241
+
+
+ == serialsh (c) 2016 qwertyoruiop == 
+
+login: root
+Password:
+iPhone-5S-Silver-102:~ root# uname -a
+Darwin iPhone-5S-Silver-102 16.3.0 Darwin Kernel Version 16.3.0: Tue Nov 29 21:40:09 PST 2016; root:xnu-3789.32.1~4/MarijuanARM64_S5L8960X iPhone6,1 arm64 N51AP Darwin
+iPhone-5S-Silver-102:~ root# sw_vers
+ProductName:    iPhone OS
+ProductVersion: 10.2
+BuildVersion:   14C92
+iPhone-5S-Silver-102:~ root# cd /
+iPhone-5S-Silver-102:/ root# ls -a
+./               .file             Developer/  bin/    etc@      sbin/
+../              .fseventsd/       Library/    boot/   lib/      tmp@
+.Trashes/        .installed_yaluX  System/     cores/  mnt/      usr/
+.cydia_no_stash  Applications/     User@       dev/    private/  var@
+iPhone-5S-Silver-102:/ root# 
