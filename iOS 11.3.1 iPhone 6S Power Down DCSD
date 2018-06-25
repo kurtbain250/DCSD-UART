@@ -1,0 +1,94 @@
+power supply type usb host
+5125787b716fa36:173
+5125787b716fa36:181
+407624eb3c545ff:523
+407624eb3c545ff:529
+constructing idle task
+d64e4ac4ef51039:2213
+d64e4ac4ef51039:1816
+d64e4ac4ef51039:1817
+d64e4ac4ef51039:1831
+d64e4ac4ef51039:1831
+d64e4ac4ef51039:1831
+d64e4ac4ef51039:1831
+d64e4ac4ef51039:1831
+d64e4ac4ef51039:1831
+d64e4ac4ef51039:2041
+d64e4ac4ef51039:2052
+16fc6bd46eff0a3:277
+image <ptr>: bdev <ptr> type illb offset 0x0 len 0x369fd
+image <ptr>: bdev <ptr> type ibot offset 0x369fd len 0x568fd
+image <ptr>: bdev <ptr> type bat1 offset 0x8d2fa len 0x1eb8
+image <ptr>: bdev <ptr> type dtre offset 0x8f1b2 len 0x209cd
+image <ptr>: bdev <ptr> type glyP offset 0xafb7f len 0x296a
+image <ptr>: bdev <ptr> type chg0 offset 0xb24e9 len 0x3b44
+image <ptr>: bdev <ptr> type bat0 offset 0xb602d len 0xc05e
+image <ptr>: bdev <ptr> type batF offset 0xc208b len 0x157bc
+image <ptr>: bdev <ptr> type chg1 offset 0xd7847 len 0x9e06
+image <ptr>: bdev <ptr> type logo offset 0xe164d len 0x2fdb
+image <ptr>: bdev <ptr> type recm offset 0xe4628 len 0x40536
+7ab90c923dae682:269
+6476b5993bf0843:87
+battery voltage 4220 mV, delta_target=50, no_battery_power=0
+power supply type batt
+constructing idle task
+d64e4ac4ef51039:2213
+d64e4ac4ef51039:1628
+d64e4ac4ef51039:1632
+d64e4ac4ef51039:1635
+d64e4ac4ef51039:1644
+d64e4ac4ef51039:1654
+d64e4ac4ef51039:1659
+d64e4ac4ef51039:1665
+d64e4ac4ef51039:1673
+d64e4ac4ef51039:1733
+d64e4ac4ef51039:1734
+d64e4ac4ef51039:1735
+d64e4ac4ef51039:1737
+d64e4ac4ef51039:1738
+d64e4ac4ef51039:1740
+d64e4ac4ef51039:1741
+d64e4ac4ef51039:1746
+d64e4ac4ef51039:1754
+d64e4ac4ef51039:1757
+d64e4ac4ef51039:1776
+d64e4ac4ef51039:1777
+d64e4ac4ef51039:1793
+d64e4ac4ef51039:1793
+d64e4ac4ef51039:1793
+d64e4ac4ef51039:1793
+d64e4ac4ef51039:1793
+d64e4ac4ef51039:1793
+d64e4ac4ef51039:2041
+d64e4ac4ef51039:2052
+16fc6bd46eff0a3:277
+16fc6bd46eff0a3:277
+16fc6bd46eff0a3:277
+16fc6bd46eff0a3:277
+e2846af5eb52553:238
+e2846af5eb52553:239
+a60aa294185a059:185
+image <ptr>: bdev <ptr> type illb offset 0x0 len 0x369fd
+image <ptr>: bdev <ptr> type ibot offset 0x369fd len 0x568fd
+image <ptr>: bdev <ptr> type bat1 offset 0x8d2fa len 0x1eb8
+image <ptr>: bdev <ptr> type dtre offset 0x8f1b2 len 0x209cd
+image <ptr>: bdev <ptr> type glyP offset 0xafb7f len 0x296a
+image <ptr>: bdev <ptr> type chg0 offset 0xb24e9 len 0x3b44
+image <ptr>: bdev <ptr> type bat0 offset 0xb602d len 0xc05e
+image <ptr>: bdev <ptr> type batF offset 0xc208b len 0x157bc
+image <ptr>: bdev <ptr> type chg1 offset 0xd7847 len 0x9e06
+image <ptr>: bdev <ptr> type logo offset 0xe164d len 0x2fdb
+image <ptr>: bdev <ptr> type recm offset 0xe4628 len 0x40536
+e51893b627f0e6e:1768
+e51893b627f0e6e:1772
+power supply type usb host
+
+Starting power-off simulation: waiting for power button or unplug (screen off)
+power supply type usb host
+9b27283b9415d0f:1150
+d11086b07fa4998:456
+9b27283b9415d0f:1150
+d11086b07fa4998:456
+9b27283b9415d0f:1150
+d11086b07fa4998:456
+
