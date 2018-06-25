@@ -1,0 +1,189 @@
+Device selected: A5023QQX (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+?d11086b07fa4998:405
+d11086b07fa4998:437
+9b27283b9415d0f:1150
+power supply type usb host
+7911d5f9bf20fa1:536
+constructing idle task
+3f29a2871f24e38:176
+3f29a2871f24e38:545
+image <ptr>: bdev <ptr> type ibot offset 0x0 len 0xaa8db
+image <ptr>: bdev <ptr> type bat1 offset 0xaa8db len 0x274c
+image <ptr>: bdev <ptr> type dtre offset 0xad027 len 0x1e81f
+image <ptr>: bdev <ptr> type glyP offset 0xcb846 len 0x47e6
+image <ptr>: bdev <ptr> type chg0 offset 0xd002c len 0x6421
+image <ptr>: bdev <ptr> type bat0 offset 0xd644d len 0x1925f
+image <ptr>: bdev <ptr> type batF offset 0xef6ac len 0x2def3
+image <ptr>: bdev <ptr> type chg1 offset 0x11d59f len 0x17252
+image <ptr>: bdev <ptr> type logo offset 0x1347f1 len 0x49b7
+image <ptr>: bdev <ptr> type recm offset 0x1391a8 len 0x74197
+7ab90c923dae682:269
+6476b5993bf0843:87
+battery voltage 4250 mV, delta_target=50, no_battery_power=0
+power supply type batt
+constructing idle task
+d5a02f5e790fff:294
+d5a02f5e790fff:294
+d5a02f5e790fff:227
+d5a02f5e790fff:227
+41098cc4bd5a1c2:280
+41098cc4bd5a1c2:280
+8cf891abb39bb1f:222
+8cf891abb39bb1f:222
+8cf891abb39bb1f:235
+8cf891abb39bb1f:235
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+1766514c6672593:248
+3b51ad5ff75856c:305
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+1766514c6672593:248
+1766514c6672593:348
+1766514c6672593:591
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+e2846af5eb52553:238
+e2846af5eb52553:239
+a60aa294185a059:185
+image <ptr>: bdev <ptr> type ibot offset 0x0 len 0xaa8db
+image <ptr>: bdev <ptr> type bat1 offset 0xaa8db len 0x274c
+image <ptr>: bdev <ptr> type dtre offset 0xad027 len 0x1e81f
+image <ptr>: bdev <ptr> type glyP offset 0xcb846 len 0x47e6
+image <ptr>: bdev <ptr> type chg0 offset 0xd002c len 0x6421
+image <ptr>: bdev <ptr> type bat0 offset 0xd644d len 0x1925f
+image <ptr>: bdev <ptr> type batF offset 0xef6ac len 0x2def3
+image <ptr>: bdev <ptr> type chg1 offset 0x11d59f len 0x17252
+image <ptr>: bdev <ptr> type logo offset 0x1347f1 len 0x49b7
+image <ptr>: bdev <ptr> type recm offset 0x1391a8 len 0x74197
+e51893b627f0e6e:1768
+e51893b627f0e6e:1772
+ef3f753e542f4eb:75
+cbd42826dac844e:111
+c3bf8bce75d7900:76
+cbd42826dac844e:101
+cbd42826dac844e:102
+cbd42826dac844e:103
+d6ff466fdb426fd:865
+
+
+=======================================
+::
+:: iBootStage2 for n56, Copyright 2007-2018, Apple Inc.
+::
+::	Local boot, Board 0x4 (n56ap)/Rev 0x0
+::
+::	BUILD_TAG: iBoot-4076.50.126
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:7000 CPRV:11 CPFM:03 SCEP:01 BDID:04 ECID: IBFL:1D SRNM:[]
+::
+=======================================
+
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+13cf2b5c8b4ce76:179
+1766514c6672593:348
+3974bfd3d441da3:796
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+dce7b01f6ef60a3:337
+dce7b01f6ef60a3:379
+e51893b627f0e6e:917
+dce7b01f6ef60a3:849
+7ab90c923dae682:395
+41098cc4bd5a1c2:344
+41098cc4bd5a1c2:344
+8cf891abb39bb1f:235
+8cf891abb39bb1f:235
+8cf891abb39bb1f:222
+8cf891abb39bb1f:222
+41098cc4bd5a1c2:356
+41098cc4bd5a1c2:356
+6476b5993bf0843:87
