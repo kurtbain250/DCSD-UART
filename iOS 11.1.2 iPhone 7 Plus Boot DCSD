@@ -1,0 +1,50 @@
+Device selected: A5023QQX (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+dd1e756fe9829bdf:1150
+3afe73b359ff88a1:456
+power button press detected: button wait cancelled
+dbac320341c4a180:75
+24275cc37f5e959f:111
+4d20c08c7a6ba179:76
+4d20c08c7a6ba179:108
+24275cc37f5e959f:101
+24275cc37f5e959f:102
+24275cc37f5e959f:103
+687bdf8288735dfd:865
+
+
+=======================================
+::
+:: iBoot for d11, Copyright 2007-2017, Apple Inc.
+::
+::	Local boot, Board 0xe (d111ap)/Rev 0xf
+::
+::	BUILD_TAG: iBoot-4076.20.48
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8010 CPRV:11 CPFM:03 SCEP:01 BDID:0E ECID: IBFL:3D SRNM:[]
+::
+=======================================
+
+74c847e8096e252f:2065
+74c847e8096e252f:2024
+74c847e8096e252f:2035
+74c847e8096e252f:2072
+19ce22e684c5d6b8:277
+74ab585bd7cc1b8d:796
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+14fdbf61484fe311:324
+14fdbf61484fe311:366
+31502f8709baf270:839
+74c847e8096e252f:2553
+14fdbf61484fe311:836
+b37607756c6dd5bc:395
+e031d98cb5144f62:87
+
