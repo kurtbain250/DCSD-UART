@@ -1,0 +1,72 @@
+Device selected: A5023QQX (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+power button press detected: button wait cancelled
+dbac320341c4a180:75
+24275cc37f5e959f:111
+8f2d0467d09e4059:48
+24275cc37f5e959f:101
+24275cc37f5e959f:102
+24275cc37f5e959f:103
+687bdf8288735dfd:865
+
+
+=======================================
+::
+:: iBootStage2 for iphone6, Copyright 2007-2017, Apple Inc.
+::
+::	Local boot, Board 0x0 (n51ap)/Rev 0x8
+::
+::	BUILD_TAG: iBoot-3406.60.10
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8960 CPRV:11 CPFM:03 SCEP:01 BDID:00 ECID: IBFL:1D SRNM:[]
+::
+=======================================
+
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b32a3cf77c38ff78:195
+b4ef2af37218539c:347
+74ab585bd7cc1b8d:822
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+14fdbf61484fe311:322
+14fdbf61484fe311:364
+31502f8709baf270:777
+14fdbf61484fe311:824
+b37607756c6dd5bc:393
+699ad4413ecedf7c:222
+699ad4413ecedf7c:222
+8fe61c2480442c28:233
+8fe61c2480442c28:233
+11fc947d0f4f679f:244
+
+
+ == serialsh (c) 2016 qwertyoruiop == 
+
+login: root
+Password:
+iPhone:~ root# uname -a
+Darwin iPhone 16.7.0 Darwin Kernel Version 16.7.0: Thu Jun 15 18:33:35 PDT 2017; root:xnu-3789.70.16~4/MarijuanARM64_S5L8960X iPhone6,1 arm64 N51AP Darwin
+iPhone:~ root# sw_vers
+ProductName:    iPhone OS
+ProductVersion: 10.3.3
+BuildVersion:   14G60
+iPhone:~ root# cd /
+iPhone:/ root# ls -a
+./               .mb/           System/  cores/  mnt/      usr/
+../              Applications/  User@    dev/    private/  var@
+.cydia_no_stash  Developer/     bin/     etc@    sbin/
+.file            Library/       boot/    lib/    tmp@
+iPhone:/ root# 
