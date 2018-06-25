@@ -1,0 +1,47 @@
+Device selected: A5023QQX (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+power button press detected: button wait cancelled
+ef3f753e542f4eb:75
+cbd42826dac844e:111
+c3bf8bce75d7900:76
+c3bf8bce75d7900:108
+cbd42826dac844e:101
+cbd42826dac844e:102
+cbd42826dac844e:103
+d6ff466fdb426fd:865
+
+
+=======================================
+::
+:: iBootStage2 for n71m, Copyright 2007-2018, Apple Inc.
+::
+::	Local boot, Board 0x4 (n71map)/Rev 0x6
+::
+::	BUILD_TAG: iBoot-4076.50.126
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8003 CPRV:01 CPFM:03 SCEP:01 BDID:04 ECID: IBFL:1D SRNM:[]
+::
+=======================================
+
+d64e4ac4ef51039:2082
+d64e4ac4ef51039:2041
+d64e4ac4ef51039:2052
+d64e4ac4ef51039:2089
+16fc6bd46eff0a3:277
+3974bfd3d441da3:796
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+dce7b01f6ef60a3:337
+dce7b01f6ef60a3:379
+e51893b627f0e6e:917
+d64e4ac4ef51039:2570
+dce7b01f6ef60a3:849
+7ab90c923dae682:395
+6476b5993bf0843:87
