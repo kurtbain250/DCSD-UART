@@ -7,6 +7,9 @@ Waiting 20000 microseconds after sending each character
 Waiting 400 microseconds after sending each character in KDP packets
 
 LLB found invalid memory signature, Rebooting
+
+#notice the llb failure? cause from force reboot, on iOS 7/8 this get recorded as a "iboot log" as seen in other examples posted here
+
 image 0x9ff5f9c0: bdev 0x9ff60a60 type SCAB offset 0x2000
 image 0x9ff5fa40: bdev 0x9ff60a60 type ibot offset 0x4000 len 0x43178
 image 0x9ff5fac0: bdev 0x9ff60a60 type bat0 offset 0x48000 len 0x29278
