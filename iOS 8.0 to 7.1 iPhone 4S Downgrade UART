@@ -1,0 +1,163 @@
+Device selected: A100JXAB (using libftd2xx)
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+iBoot not saving panic log.
+image 0x9ff61d40: bdev 0x9ff62de0 type SCAB offset 0x2000
+image 0x9ff61dc0: bdev 0x9ff62de0 type ibot offset 0x4000 len 0x45178
+image 0x9ff61e40: bdev 0x9ff62de0 type dtre offset 0x4a000 len 0x142b8
+image 0x9ff61ec0: bdev 0x9ff62de0 type logo offset 0x60000 len 0x1a78
+image 0x9ff61f40: bdev 0x9ff62de0 type chg0 offset 0x62000 len 0x25f8
+image 0x9ff61fc0: bdev 0x9ff62de0 type chg1 offset 0x66000 len 0x88b8
+image 0x9ff62040: bdev 0x9ff62de0 type batF offset 0x70000 len 0x14838
+image 0x9ff620c0: bdev 0x9ff62de0 type bat0 offset 0x86000 len 0xaa38
+image 0x9ff62140: bdev 0x9ff62de0 type bat1 offset 0x92000 len 0x7f8
+image 0x9ff621c0: bdev 0x9ff62de0 type glyP offset 0x94000 len 0x2e38
+image 0x9ff62240: bdev 0x9ff62de0 type recm offset 0x98000 len 0x12eb8
+pinot_init()
+mipi_dsim_init()
+pinot_init(): pinot_panel_id:      0xa6c20dc8
+pinot_init(): pinot_default_color: 0x00000000
+pinot_init(): pinot_backlight_cal: 0x00000009
+paint_install_gamma_table: No Gamma table found for display_id: 0xa6c20dc8
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI0:CE0
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI1:CE8
+[NAND] h2fmiPrintConfig:554 PPN Manufacturer ID: 98 00 04 16 14 01
+[NAND] h2fmiPrintConfig:556 PPN Controller Version:  010900P_R010000
+
+
+=======================================
+::
+:: iBoot for n94, Copyright 2007-2014, Apple Inc.
+::
+::	BUILD_TAG: iBoot-2261.1.67
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8940 CPRV:21 CPFM:03 SCEP:11 BDID:08 ECID: IBFL:1B SRNM:[]
+::
+=======================================
+
+[NAND] WMR_Start:151 Apple PPN NAND Driver, Read-Only
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI0:CE0
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI1:CE8
+[NAND] h2fmiPrintConfig:554 PPN Manufacturer ID: 98 00 04 16 14 01
+[NAND] h2fmiPrintConfig:556 PPN Controller Version:  010900P_R010000
+[NAND] WMR_Start:174 FIL_Init  [OK]
+[NAND] WMR_Open:371 VFL_Open    [OK]
+[NAND] s_cxt_boot:88 sftl: error, unclean shutdown; adopted 4168 spans
+[NAND] WMR_Open:420 FTL_Open    [OK]
+Boot Failure Count: 1	Panic Fail Count: 0
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+HFSInitPartition: 0x9ff80180
+Loading kernel cache at 0x84000000
+Uncompressed kernel cache at 0x84000000
+gBootArgs.commandLine = [ ]
+image 0x9ff60bc0: bdev 0x9ff61c60 type SCAB offset 0x2000
+image 0x9ff60c40: bdev 0x9ff61c60 type ibot offset 0x4000 len 0x45178
+image 0x9ff60cc0: bdev 0x9ff61c60 type dtre offset 0x4a000 len 0x142b8
+image 0x9ff60d40: bdev 0x9ff61c60 type logo offset 0x60000 len 0x1a78
+image 0x9ff60dc0: bdev 0x9ff61c60 type chg0 offset 0x62000 len 0x25f8
+image 0x9ff60e40: bdev 0x9ff61c60 type chg1 offset 0x66000 len 0x88b8
+image 0x9ff60ec0: bdev 0x9ff61c60 type batF offset 0x70000 len 0x14838
+image 0x9ff60f40: bdev 0x9ff61c60 type bat0 offset 0x86000 len 0xaa38
+image 0x9ff60fc0: bdev 0x9ff61c60 type bat1 offset 0x92000 len 0x7f8
+image 0x9ff61040: bdev 0x9ff61c60 type glyP offset 0x94000 len 0x2e38
+image 0x9ff610c0: bdev 0x9ff61c60 type recm offset 0x98000 len 0x12eb8
+pinot_init()
+mipi_dsim_init()
+pinot_init(): pinot_panel_id:      0xa6c20dc8
+pinot_init(): pinot_default_color: 0x00000000
+pinot_init(): pinot_backlight_cal: 0x00000009
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI0:CE0
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI1:CE8
+[NAND] h2fmiPrintConfig:554 PPN Manufacturer ID: 98 00 04 16 14 01
+[NAND] h2fmiPrintConfig:556 PPN Controller Version:  010900P_R010000
+
+
+=======================================
+::
+:: iBEC for n94ap, Copyright 2013, Apple Inc.
+::
+::	BUILD_TAG: iBoot-1940.10.58
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8940 CPRV:21 CPFM:03 SCEP:11 BDID:08 ECID: IBFL:1A SRNM:[]
+::
+=======================================
+
+[NAND] WMR_Start:151 Apple PPN NAND Driver, Read-Only
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI0:CE0
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI1:CE8
+[NAND] h2fmiPrintConfig:554 PPN Manufacturer ID: 98 00 04 16 14 01
+[NAND] h2fmiPrintConfig:556 PPN Controller Version:  010900P_R010000
+[NAND] WMR_Start:174 FIL_Init  [OK]
+[NAND] WMR_Open:371 VFL_Open    [OK]
+[NAND] s_cxt_boot:88 sftl: error, unclean shutdown; adopted 5589 spans
+[NAND] WMR_Open:420 FTL_Open    [OK]
+Boot Failure Count: 2	Panic Fail Count: 0
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+boot-command 'fsboot' not supported
+Entering recovery mode, starting command prompt
+loaded ramdisk at 0x88000000 of size 0x87b000, from image at 0x80000000
+loaded device tree at 0x87f00000 of size 0x13b98, from image at 0x80000000
+Attempting to validate kernelcache @ 0x80000000
+Loading kernel cache at 0x84000000
+Uncompressed kernel cache at 0x84000000
+gBootArgs.commandLine = [rd=md0 nand-enable-reformat=1 -progress ]
+kernelcache prepped at address 0x8001d0c8
+image 0x9ff60cc0: bdev 0x9ff61d60 type SCAB offset 0x2000
+image 0x9ff60d40: bdev 0x9ff61d60 type ibot offset 0x4000 len 0x44178
+image 0x9ff60dc0: bdev 0x9ff61d60 type dtre offset 0x4a000 len 0x13cf8
+image 0x9ff60e40: bdev 0x9ff61d60 type logo offset 0x5e000 len 0x1a78
+image 0x9ff60ec0: bdev 0x9ff61d60 type chg0 offset 0x60000 len 0x25f8
+image 0x9ff60f40: bdev 0x9ff61d60 type chg1 offset 0x64000 len 0x88b8
+image 0x9ff60fc0: bdev 0x9ff61d60 type batF offset 0x6e000 len 0x14838
+image 0x9ff61040: bdev 0x9ff61d60 type bat0 offset 0x84000 len 0xaa38
+image 0x9ff610c0: bdev 0x9ff61d60 type bat1 offset 0x90000 len 0x7f8
+image 0x9ff61140: bdev 0x9ff61d60 type glyP offset 0x92000 len 0x2e38
+image 0x9ff611c0: bdev 0x9ff61d60 type recm offset 0x96000 len 0x10f38
+pinot_init()
+mipi_dsim_init()
+pinot_init(): pinot_panel_id:      0xa6c20dc8
+pinot_init(): pinot_default_color: 0x00000000
+pinot_init(): pinot_backlight_cal: 0x00000009
+paint_install_gamma_table: No Gamma table found for display_id: 0xa6c20dc8
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI0:CE0
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI1:CE8
+[NAND] h2fmiPrintConfig:554 PPN Manufacturer ID: 98 00 04 16 14 01
+[NAND] h2fmiPrintConfig:556 PPN Controller Version:  010900P_R010000
+
+
+=======================================
+::
+:: iBoot for n94ap, Copyright 2013, Apple Inc.
+::
+::	BUILD_TAG: iBoot-1940.10.58
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8940 CPRV:21 CPFM:03 SCEP:11 BDID:08 ECID: IBFL:1B SRNM:[]
+::
+=======================================
+
+[NAND] WMR_Start:151 Apple PPN NAND Driver, Read-Only
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI0:CE0
+[NAND] h2fmiPrintConfig:544 Chip ID 50 50 4E 01 00 03 on FMI1:CE8
+[NAND] h2fmiPrintConfig:554 PPN Manufacturer ID: 98 00 04 16 14 01
+[NAND] h2fmiPrintConfig:556 PPN Controller Version:  010900P_R010000
+[NAND] WMR_Start:174 FIL_Init  [OK]
+[NAND] WMR_Open:371 VFL_Open    [OK]
+[NAND] WMR_Open:420 FTL_Open    [OK]
+Boot Failure Count: 0	Panic Fail Count: 0
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+HFSInitPartition: 0x9ff7f100
+Loading kernel cache at 0x84000000
+Uncompressed kernel cache at 0x84000000
+gBootArgs.commandLine = [ ]
+
