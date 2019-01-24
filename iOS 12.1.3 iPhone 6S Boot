@@ -1,0 +1,135 @@
+Communicating at 115200,N,8,1, No flow control
+echo off, newline mapping off, backspace mapping on
+Listening on port 41139
+Use '~' for menu
+Waiting 20000 microseconds after sending each character
+Waiting 400 microseconds after sending each character in KDP packets
+
+9b27283b9415d0f:1150
+power supply type usb host
+5125787b716fa36:173
+5125787b716fa36:181
+407624eb3c545ff:523
+407624eb3c545ff:529
+constructing idle task
+d64e4ac4ef51039:2227
+d64e4ac4ef51039:1817
+d64e4ac4ef51039:1818
+d64e4ac4ef51039:1832
+d64e4ac4ef51039:1832
+d64e4ac4ef51039:1832
+d64e4ac4ef51039:1832
+d64e4ac4ef51039:1832
+d64e4ac4ef51039:1832
+d64e4ac4ef51039:2055
+d64e4ac4ef51039:2066
+16fc6bd46eff0a3:277
+image <ptr>: bdev <ptr> type illb offset 0x0 len 0x3b255
+image <ptr>: bdev <ptr> type ibot offset 0x3b255 len 0x5ef95
+image <ptr>: bdev <ptr> type bat1 offset 0x9a1ea len 0x1f92
+image <ptr>: bdev <ptr> type dtre offset 0x9c17c len 0x20a34
+image <ptr>: bdev <ptr> type glyP offset 0xbcbb0 len 0x2a44
+image <ptr>: bdev <ptr> type chg0 offset 0xbf5f4 len 0x3c1e
+image <ptr>: bdev <ptr> type bat0 offset 0xc3212 len 0xc138
+image <ptr>: bdev <ptr> type batF offset 0xcf34a len 0x15896
+image <ptr>: bdev <ptr> type chg1 offset 0xe4be0 len 0x9ee0
+image <ptr>: bdev <ptr> type logo offset 0xeeac0 len 0x30b5
+image <ptr>: bdev <ptr> type recm offset 0xf1b75 len 0x40610
+7ab90c923dae682:274
+6476b5993bf0843:87
+battery voltage 4250 mV, delta_target=50, no_battery_power=0
+power supply type batt
+constructing idle task
+d64e4ac4ef51039:2227
+d64e4ac4ef51039:1629
+d64e4ac4ef51039:1633
+d64e4ac4ef51039:1636
+d64e4ac4ef51039:1645
+d64e4ac4ef51039:1655
+d64e4ac4ef51039:1660
+d64e4ac4ef51039:1666
+d64e4ac4ef51039:1674
+d64e4ac4ef51039:1734
+d64e4ac4ef51039:1735
+d64e4ac4ef51039:1737
+d64e4ac4ef51039:1738
+d64e4ac4ef51039:1739
+d64e4ac4ef51039:1741
+d64e4ac4ef51039:1742
+d64e4ac4ef51039:1747
+d64e4ac4ef51039:1755
+d64e4ac4ef51039:1758
+d64e4ac4ef51039:1777
+d64e4ac4ef51039:1778
+d64e4ac4ef51039:1794
+d64e4ac4ef51039:1794
+d64e4ac4ef51039:1794
+d64e4ac4ef51039:1794
+d64e4ac4ef51039:1794
+d64e4ac4ef51039:1794
+d64e4ac4ef51039:2055
+d64e4ac4ef51039:2066
+16fc6bd46eff0a3:277
+16fc6bd46eff0a3:277
+16fc6bd46eff0a3:277
+16fc6bd46eff0a3:277
+e2846af5eb52553:236
+e2846af5eb52553:237
+2b61073566fcb68:136
+image <ptr>: bdev <ptr> type illb offset 0x0 len 0x3b255
+image <ptr>: bdev <ptr> type ibot offset 0x3b255 len 0x5ef95
+image <ptr>: bdev <ptr> type bat1 offset 0x9a1ea len 0x1f92
+image <ptr>: bdev <ptr> type dtre offset 0x9c17c len 0x20a34
+image <ptr>: bdev <ptr> type glyP offset 0xbcbb0 len 0x2a44
+image <ptr>: bdev <ptr> type chg0 offset 0xbf5f4 len 0x3c1e
+image <ptr>: bdev <ptr> type bat0 offset 0xc3212 len 0xc138
+image <ptr>: bdev <ptr> type batF offset 0xcf34a len 0x15896
+image <ptr>: bdev <ptr> type chg1 offset 0xe4be0 len 0x9ee0
+image <ptr>: bdev <ptr> type logo offset 0xeeac0 len 0x30b5
+image <ptr>: bdev <ptr> type recm offset 0xf1b75 len 0x40610
+e51893b627f0e6e:1985
+e51893b627f0e6e:1989
+power supply type usb host
+
+Starting power-off simulation: waiting for power button or unplug (screen off)
+power supply type usb host
+power button press detected: button wait cancelled
+ef3f753e542f4eb:75
+cbd42826dac844e:111
+c3bf8bce75d7900:77
+c3bf8bce75d7900:109
+cbd42826dac844e:101
+cbd42826dac844e:102
+cbd42826dac844e:103
+d6ff466fdb426fd:878
+
+
+=======================================
+::
+:: iBootStage2 for n71m, Copyright 2007-2018, Apple Inc.
+::
+::	Local boot, Board 0x4 (n71map)/Rev 0x6
+::
+::	BUILD_TAG: iBoot-4513.230.10
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8x CPRV:01 CPFM:03 SCEP:01 BDID:04 ECID:0xxxxxA IBFL:1D SRNM:[Fxxxx]
+::
+=======================================
+
+d64e4ac4ef51039:2096
+d64e4ac4ef51039:2055
+d64e4ac4ef51039:2066
+d64e4ac4ef51039:2103
+16fc6bd46eff0a3:277
+3974bfd3d441da3:831
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+dce7b01f6ef60a3:340
+dce7b01f6ef60a3:382
+e51893b627f0e6e:1128
+d64e4ac4ef51039:2583
+dce7b01f6ef60a3:955
+7ab90c923dae682:401
+6476b5993bf0843:87
+
