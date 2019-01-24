@@ -1,0 +1,163 @@
+power supply type usb host
+7895780174d60626:155
+7895780174d60626:525
+image <ptr>: bdev <ptr> type ibot offset 0x0 len 0x9d451
+image <ptr>: bdev <ptr> type bat1 offset 0x9d451 len 0x1b0f
+image <ptr>: bdev <ptr> type dtre offset 0x9ef60 len 0x261df
+image <ptr>: bdev <ptr> type glyP offset 0xc513f len 0x227f
+image <ptr>: bdev <ptr> type bat0 offset 0xc73be len 0xbd6f
+image <ptr>: bdev <ptr> type chg0 offset 0xd312d len 0x390f
+image <ptr>: bdev <ptr> type batF offset 0xd6a3c len 0x15b72
+image <ptr>: bdev <ptr> type chg1 offset 0xec5ae len 0x9bcf
+image <ptr>: bdev <ptr> type logo offset 0xf617d len 0x2daf
+image <ptr>: bdev <ptr> type recm offset 0xf8f2c len 0x13252
+battery voltage 3980 mV
+power supply type usb host
+541f42fb12a7e394:102
+541f42fb12a7e394:102
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+11fc947d0f4f679f:230
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+b4ef2af37218539c:241
+b4ef2af37218539c:481
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+c69dbd2499aec822:209
+image <ptr>: bdev <ptr> type ibot offset 0x0 len 0x9d451
+image <ptr>: bdev <ptr> type bat1 offset 0x9d451 len 0x1b0f
+image <ptr>: bdev <ptr> type dtre offset 0x9ef60 len 0x261df
+image <ptr>: bdev <ptr> type glyP offset 0xc513f len 0x227f
+image <ptr>: bdev <ptr> type bat0 offset 0xc73be len 0xbd6f
+image <ptr>: bdev <ptr> type chg0 offset 0xd312d len 0x390f
+image <ptr>: bdev <ptr> type batF offset 0xd6a3c len 0x15b72
+image <ptr>: bdev <ptr> type chg1 offset 0xec5ae len 0x9bcf
+image <ptr>: bdev <ptr> type logo offset 0xf617d len 0x2daf
+image <ptr>: bdev <ptr> type recm offset 0xf8f2c len 0x13252
+dbac320341c4a180:72
+24275cc37f5e959f:122
+8f2d0467d09e4059:43
+24275cc37f5e959f:112
+24275cc37f5e959f:113
+24275cc37f5e959f:114
+687bdf8288735dfd:585
+
+
+=======================================
+::
+:: iBoot for n51, Copyright 2007-2015, Apple Inc.
+::
+::	BUILD_TAG: iBoot-2817.10.34
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8xxx0 CPRV:11 CPFM:03 SCEP:01 BDID:00 ECID:0xxxxxx4 IBFL:1D SRNM:[FxxxxxxxP]
+::
+=======================================
+
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+971d4f5e46bc0256:190
+b4ef2af37218539c:241
+74ab585bd7cc1b8d:699
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+HFSInitPartition: <ptr>
+14fdbf61484fe311:231
+14fdbf61484fe311:264
+14fdbf61484fe311:624
+fa57c3ab3f8da3d3:281
+fa57c3ab3f8da3d3:281
+5be40f9c30eb8e2b:405
+5be40f9c30eb8e2b:405
