@@ -1,0 +1,132 @@
+Starting power-off simulation: waiting for power button or unplug (screen off)
+power supply type usb host
+power button press detected: button wait cancelled
+29e183cf63ce738:550
+c3bf8bce75d7900:77
+c3bf8bce75d7900:109
+29e183cf63ce738:118
+29e183cf63ce738:119
+29e183cf63ce738:120
+29e183cf63ce738:121
+d6ff466fdb426fd:808
+96ede82803e085b:336
+
+
+=======================================
+::
+:: iBoot for d22, Copyright 2007-2018, Apple Inc.
+::
+::	Local boot, Board 0xe (d221ap)/Rev 0xf
+::
+::	BUILD_TAG: iBoot-4513.230.10
+::
+::	BUILD_STYLE: RELEASE
+::
+::	USB_SERIAL_NUMBER: CPID:8x5 CPRV:11 CPFM:03 SCEP:01 BDID:0E ECID:00xxxxxxxE IBFL:3D SRNM:[Fx]
+::
+=======================================
+
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+d64e4ac4ef51039:2096
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+d64e4ac4ef51039:2055
+d64e4ac4ef51039:2066
+d64e4ac4ef51039:2103
+16fc6bd46eff0a3:277
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+3974bfd3d441da3:831
+Delaying boot for 0 seconds. Hit enter to break into the command prompt...
+dce7b01f6ef60a3:340
+dce7b01f6ef60a3:382
+e51893b627f0e6e:1128
+pmgr GFX-KF 95 id greater than next id
+pmgr DISP0-V fe id greater than next id
+pmgr SMC_FABRIC c5 id greater than next id
+pmgr CPU5 a3 id greater than next id
+dce7b01f6ef60a3:955
+7ab90c923dae682:401
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+2d2fa2a9625c0de:179
+8d3ff3cd3759614:408
+8d3ff3cd3759614:408
+7f08e6b5656548f:235
+7f08e6b5656548f:235
+7f08e6b5656548f:222
+7f08e6b5656548f:222
+8d3ff3cd3759614:420
+8d3ff3cd3759614:420
+8d3ff3cd3759614:408
+8d3ff3cd3759614:408
+7f08e6b5656548f:235
+7f08e6b5656548f:235
+7f08e6b5656548f:222
+7f08e6b5656548f:222
+8d3ff3cd3759614:420
+8d3ff3cd3759614:420
+6476b5993bf0843:87
+
